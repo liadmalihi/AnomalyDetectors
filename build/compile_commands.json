@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/MainTrain.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/MainTrain.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/MainTrain.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/CLI.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/CLI.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/CLI.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/HybridAnomalyDetector.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/HybridAnomalyDetector.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/HybridAnomalyDetector.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/minCircle.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/minCircle.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/minCircle.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/SimpleAnomalyDetector.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/SimpleAnomalyDetector.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/SimpleAnomalyDetector.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/timeseries.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/timeseries.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/timeseries.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/anomaly_detection_util.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/anomaly_detection_util.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/anomaly_detection_util.cpp"
+},
+{
+  "directory": "/mnt/c/Users/97254/Desktop/cpp1/ex6/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ex6.dir/Server.cpp.o -c /mnt/c/Users/97254/Desktop/cpp1/ex6/Server.cpp",
+  "file": "/mnt/c/Users/97254/Desktop/cpp1/ex6/Server.cpp"
+}
+]
